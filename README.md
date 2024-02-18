@@ -8,3 +8,10 @@
     keyword：介绍代码实现的个人心得。
     最佳抽象：理论化的英文抽象。
     最简实践：个人的具象化实践应用。
+
+## 设计模式结构图
+
+![design1](design_pattern_photo/design1.jpg)
+![design2](design_pattern_photo/design2.jpg)
+![design3](design_pattern_photo/design3.jpg)
+![design4](design_pattern_photo/design4.jpg)
